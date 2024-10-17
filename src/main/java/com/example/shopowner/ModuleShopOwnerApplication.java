@@ -1,0 +1,13 @@
+package com.example.shopowner;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ModuleShopOwnerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ModuleShopOwnerApplication.class, args);
+	}
+
+}
